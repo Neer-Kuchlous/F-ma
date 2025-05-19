@@ -1,4 +1,4 @@
-# F-ma
+# F=ma
 
 Author:    Neer Kuchlous
 
